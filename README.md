@@ -19,7 +19,7 @@ namespace SumaUnetihBrojeva
           double sum = 0;
           for(int i=1; i<=n; i++)
           {
-              double sum = double.Parse(Console.ReadLine());
+              double num = double.Parse(Console.ReadLine());
               sum +=num;
           }
           Console.WriteLine(sum);
