@@ -17,7 +17,7 @@ namespace SumaUnetihBrojeva
       {
           int n = int.Parse(Console.ReadLine());
           double sum = 0;
-          for(int=1; i<=n; i++)
+          for(int i=1; i<=n; i++)
           {
               double sum = double.Parse(Console.ReadLine());
               sum +=num;
